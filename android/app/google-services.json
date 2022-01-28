@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "803404283958",
+    "firebase_url": "https://astecca-79c78.firebaseio.com",
+    "project_id": "astecca-79c78",
+    "storage_bucket": "astecca-79c78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803404283958:android:1488a0eda2c36fb61c1897",
+        "android_client_info": {
+          "package_name": "com.astecca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803404283958-r7gr8n1l8gpc0b5aotvd2kkj2snr3cj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astecca",
+            "certificate_hash": "37625a40ace86675cfe89a75538fee98b8103045"
+          }
+        },
+        {
+          "client_id": "803404283958-q1ql003gkhiqg6st030d2kvi7h58hvn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAARq0fHReN0moAFNkxC6l6c-MUDaWwC2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803404283958-q1ql003gkhiqg6st030d2kvi7h58hvn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
